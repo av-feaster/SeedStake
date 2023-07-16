@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "SeedStake"
 include ':app'
+include ':Authorization'
